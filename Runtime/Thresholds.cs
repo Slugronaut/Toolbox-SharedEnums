@@ -1,5 +1,5 @@
 ﻿
-namespace Toolbox
+namespace Peg
 {
     /// <summary>
     /// Commonly used, threshold constant values.

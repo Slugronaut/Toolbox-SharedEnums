@@ -1,5 +1,5 @@
 
-namespace Toolbox
+namespace Peg
 {
 
     public enum DestructEffect
